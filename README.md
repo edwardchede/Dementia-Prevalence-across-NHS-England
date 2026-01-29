@@ -12,7 +12,7 @@ The aim is to transform complex healthcare data into **actionable insights** tha
 
 ## Dashboard
 **Static version (PDF):**  
-[View Power BI Dashboard (PDF)](Dashboard_PDF/Exploring Demographic and Regional Inequalities in Dementia Prevalence across NHS England.pdf)
+[View Power BI Dashboard(PDF)](Dashboard_PDF/Exploring_Demographic_and_Regional_Inequalities_in_Dementia_Prevalence_across_NHS_England.pdf).
 
 ---
 
