@@ -12,13 +12,13 @@ The aim is to transform complex healthcare data into **actionable insights** tha
 
 ## Dashboard
 **Static version (PDF):**  
-[View Power BI Dashboard(pdf)](Dashboard/Exploring_Demographic_and_Regional_Inequalities_in_Dementia_Prevalence_across_NHS_England.pdf)
+[View Power BI Dashboard(pdf)](Exploring_Demographic_and_Regional_Inequalities_in_Dementia_Prevalence_across_NHS_England.pdf)
 
 ---
 
 ## Full Analytical Report
  **Detailed project report (PDF):**  
-[View Analysis Report](Report/Dementia_Prevalence_Analysis_Report.pdf)
+[View Analysis Report](Dementia_Prevalence_Analysis_Report.pdf)
 
 The report provides full context on the dataset, methodology, insights, and service-planning implications.
 
@@ -35,11 +35,11 @@ How does dementia prevalence vary by **age, ethnicity, care setting, and geograp
 - **Publication:** November 2025  
 - **Source:**  
   https://digital.nhs.uk/data-and-information/publications/statistical/primary-care-dementia-data/november-2025  
-
-## The dataset contains aggregated dementia prevalence figures reported by GP practices across England, including demographic and geographic breakdowns.
+---
+ The dataset contains aggregated dementia prevalence figures reported by GP practices across England, including demographic and geographic breakdowns. 
 ---
 ## Value Delivered
-This dashboard enables NHS stakeholders to quickly identify **high-risk populations** by age, ethnicity, care setting, and geography. By highlighting **regional and ICB-level disparities**, the analysis supports **evidence-based decision-making** in service design, capacity planning, and policy development.
+This dashboard enables NHS stakeholders to quickly identify **high-risk populations** by age, ethnicity, care setting, and geography. By highlighting **regional and ICB-level disparities**, the analysis supports **evidence-based decision-making** in service design, capacity planning, and policy development. 
 ---
 
 ## Skills Demonstrated
