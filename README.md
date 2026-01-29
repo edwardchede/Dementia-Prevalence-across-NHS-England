@@ -12,13 +12,13 @@ The aim is to transform complex healthcare data into **actionable insights** tha
 
 ## Dashboard
 **Static version (PDF):**  
-[View Power BI Dashboard(PDF)](Dashboard_PDF/Exploring_Demographic_and_Regional_Inequalities_in_Dementia_Prevalence_across_NHS_England.pdf).
+[View Power BI Dashboard(PDF)](Dashboard(pdf)/Exploring_Demographic_and_Regional_Inequalities_in_Dementia_Prevalence_across_NHS_England.pdf)
 
 ---
 
 ## Full Analytical Report
  **Detailed project report (PDF):**  
-[View Analysis Report](Report/Dementia_Prevalence_Analysis_Report.pdf)
+[View Analysis Report](Reports/Dementia_Prevalence_Analysis_Report.pdf)
 
 The report provides full context on the dataset, methodology, insights, and service-planning implications.
 
